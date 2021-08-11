@@ -1,0 +1,5 @@
+2021/08/11-16:49:39.657333 7fd1ff7fe700 Recovering log #3
+2021/08/11-16:49:39.657481 7fd1ff7fe700 Level-0 table #5: started
+2021/08/11-16:49:39.662512 7fd1ff7fe700 Level-0 table #5: 658 bytes OK
+2021/08/11-16:49:39.681820 7fd1ff7fe700 Delete type=0 #3
+2021/08/11-16:49:39.681887 7fd1ff7fe700 Delete type=3 #2

@@ -1,0 +1,8 @@
+.showMessage {
+    width: 70%;
+    height: 60vh;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    background-color: #000;
+}

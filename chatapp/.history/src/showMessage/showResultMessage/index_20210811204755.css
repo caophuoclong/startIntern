@@ -1,0 +1,33 @@
+ul>li {
+    list-style-type: none;
+}
+
+.showMessages {
+    width: 70%;
+    height: 60vh;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    background-color: rgb(134, 59, 59);
+    margin-top: 5px;
+    margin-bottom: 20px;
+    overflow-y: scroll;
+}
+
+.item {
+    border: 1px solid black;
+    margin: 10px;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.id {}
+
+.message {
+    display: inline-block;
+    margin: 0;
+    width: 60%;
+    word-wrap: break-word;
+    margin-left: 10px;
+}
