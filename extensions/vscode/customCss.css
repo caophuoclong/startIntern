@@ -1,0 +1,126 @@
+.mtk17{
+  font-family: "Hurmit Nerd Font";
+  font-size: 20px;
+  font-weight: bolder;
+}
+.mtk1{
+  font-family: "Hurmit Nerd Font";
+  font-weight: bolder;
+}
+.mtk16{
+  font-family: "Hurmit Nerd Font";
+  font-weight: bolder;
+}
+
+.mtk10{
+  font-family: "VNI-Cooper";
+}
+.mtk17{
+  color: transparent;
+  background-image: linear-gradient(to right top, #d6ff7f, #00b3cc);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.mtk15{
+  color: transparent;
+  background-image: linear-gradient(to right top, #aff1da,#f9ea8f
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.mtk15{
+  font-weight: bold;
+}
+.mtk4{
+  font-family: ".VnLinus";
+  font-weight: bolder;
+  font-size: 30px
+
+}
+.mtk5{
+  font-family: "VNI-Cooper";
+}
+
+.mtk5{
+  color: transparent;
+  background-image: linear-gradient(to right top, #788cb6,#fdb813);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.mtk7{
+  color: transparent;
+  background-image: linear-gradient(to right top, #f06966, #fad6a6);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+.mtk14{
+  font-family: "VNI-Cooper";
+}
+.mtk16{
+  font-family: "VNI-Cooper";
+}
+.mtk14{
+  color: transparent;
+  background-image: linear-gradient(to right top, #fa7cbb, #f14658);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.mtk16{
+  color: transparent;
+  background-image: linear-gradient(to right top, #fa7cbb, #f14658);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.line-numbers{
+  font-family: "VNI-Diudang";
+  font-weight: bolder;
+}
+.line-numbers{
+  color: transparent;
+  background-image: linear-gradient(to right top, #ed7b84, #9055ff);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.label-name{
+  font-family: ".VnCourier New";
+  font-size: 15px;
+}
+
+.mtk6{
+  font-size: 15px;
+  color: #Fbf3e8;
+}
+.mtku{
+  text-decoration: none;
+  text-underline-position: none;
+}
+.mtki{
+  font-style: normal;
+}
+
+.mtk3{
+  font-family: "CodeNewRoman NF";
+  font-weight: bolder;
+}
+.mtk18{
+  font-family: "Cascadia Code PL ExtraLight";
+  font-weight: bolder;
+}
+.mtk18{
+  color: transparent;
+  background-image: linear-gradient(to right top, #fa7cbb, #f14658);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
